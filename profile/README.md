@@ -15,7 +15,7 @@ Questa organizzazione GitHub ha lo scopo di preservare e organizzare i progetti 
 
 Al fine di standardizzare e catalogare al meglio le sottomissioni degli utenti, si chiede di rispettare alcune linee guida. 
 
-Le repository dovrebbero avere un nome distintivo, separato da trattini, che identifichi il progetto. Ad esempio, per il progetto "*Patient Digital Twin*", la repository dovrebbe essere chiamata `patient-digital-twin`. 
+Le repository dovrebbero avere un nome distintivo, in minuscolo e separato da trattini, che identifichi il progetto. Ad esempio, per il progetto "*Patient Digital Twin*", la repository dovrebbe essere chiamata `patient-digital-twin`. 
 
 Inoltre, la descrizione della repository dovrebbe essere formattata come segue: `[a.a. xx/yy] N. Cognome, N. Cognome, N. Cognome`. Un esempio pratico: `[a.a. 22/23] C. Rossi, A. Bianchi, G. Verdi`.
 
