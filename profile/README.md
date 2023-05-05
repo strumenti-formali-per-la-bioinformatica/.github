@@ -3,10 +3,11 @@
 </p>
 
 # Strumenti Formali per la Bioinformatica
-Corso affine/integrativo della Laurea Magistrale in Informatica all'Università degli Studi di Salerno
+Corso affine-integrativo della Laurea Magistrale in Informatica all'Università degli Studi di Salerno.
 
 - [Scheda e descrizione del corso](https://corsi.unisa.it/informatica-magistrale/didattica/insegnamenti?anno=2022&id=516069)
 - **Docenti:** prof. [Rocco Zaccagnino](https://docenti.unisa.it/023039/home), prof.ssa [Rosalba Zizza](https://docenti.unisa.it/020880/home), prof.ssa [Clelia de Felice](https://docenti.unisa.it/001119/home)
+- **Maintainer:** [Antonio Gravino](https://github.com/antoniogrv)
 
 
 ## Istruzioni e linee guida
