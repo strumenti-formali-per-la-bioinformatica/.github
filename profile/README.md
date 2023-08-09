@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://www.unisa.it/rescue/img/logo_standard.png">
+  <img height="300" src="https://www.opisalerno.it/wp-content/uploads/2016/11/logo-unisa-png.png">
 </p>
 
 # Strumenti Formali per la Bioinformatica
